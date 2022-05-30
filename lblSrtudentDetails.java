@@ -1,0 +1,5 @@
+package universitymanagement;
+
+class lblSrtudentDetails {
+
+}
